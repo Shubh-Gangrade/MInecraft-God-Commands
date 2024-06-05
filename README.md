@@ -1,6 +1,6 @@
 # Minecraft Netherite Gear Commands
 
-![Netherite Helmet]([URL_TO_HELMET_IMAGE](https://i.ytimg.com/vi/JLLH2Ja1i-s/hqdefault.jpg))
+![Netherite Armour][https://i.ytimg.com/vi/JLLH2Ja1i-s/hqdefault.jpg]
 
 **Netherite Helmet**
 ```markdown
